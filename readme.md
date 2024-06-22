@@ -1,6 +1,6 @@
 # 연산군 (Calcking)
 
-![](./images/banner.gif)
+<img src="./images/banner.gif" />
 
 ## :rainbow: Project Overview
 
